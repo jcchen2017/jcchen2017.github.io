@@ -3,16 +3,16 @@
 
 ~~~
 {}{img_left}{photos/jinchi.jpg}{alt text}{160}{131}{}
-[https://sds.fudan.edu.cn/ School of Data Science], [https://www.fudan.edu.cn/ Fudan University]\n
-No. 220 Handan Road, Shanghai 200433\n 
+I am a postdoc in [https://sds.fudan.edu.cn/ School of Data Science] at [https://www.fudan.edu.cn/ Fudan University]\n
+My advisors are [http://homepage.fudan.edu.cn/wggao/zh/ Prof. Weiguo Gao] and [http://www.sdspeople.fudan.edu.cn/weike/ Prof. Ke Wei].\n
+
+
 E-mail: /jcchen.phys/ \[@\] gmail \[DOT\] com 
 ~~~
 
-== About me
-Hello. I am a post-doc at [https://www.fudan.edu.cn/ Fudan University], working with [http://homepage.fudan.edu.cn/wggao/zh/ Prof. Weiguo Gao] and [http://www.sdspeople.fudan.edu.cn/weike/ Prof. Ke Wei]. 
-Before that, I completed my Ph.D. in School of Physics at [http://www.bit.edu.cn/ Beijing Institute of Technology], 
-where I worked with [http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm Prof. Yulong Liu]. 
-I received B.E. in School of Information and Communication Engineering from [http://www.njit.edu.cn/ Nanjing Institute of Technology ].
+== About me 
+Before coming to Fudan, I completed my Ph.D. in School of Physics at [http://www.bit.edu.cn/ Beijing Institute of Technology], 
+where I worked with [http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm Prof. Yulong Liu]. Before that, I received B.E. in School of Information and Communication Engineering from [http://www.njit.edu.cn/ Nanjing Institute of Technology].
 
 == Research Interests
 My research interests include 
@@ -21,7 +21,7 @@ My research interests include
 - Data Science
 
 == Publications 
-. Jinchi Chen, Weiguo Gao and Ke Wei, [https://arxiv.org/pdf/1910.02576.pdf Exact matrix completion based on low rank Hankel structure in the Fourier domain], 2019. Preprint.
+. Jinchi Chen, Weiguo Gao and Ke Wei, [https://arxiv.org/abs/1910.02576 Exact matrix completion based on low rank Hankel structure in the Fourier domain], 2019. Preprint.
 . Jinchi Chen and Yulong Liu, [https://arxiv.org/pdf/1709.05827.pdf Stable recovery of structured signals from corrupted sub-gaussian measurements], IEEE Transactions on Information Theory, 2019.
 . Jinchi Chen and Yulong Liu, [https://ieeexplore.ieee.org/abstract/document/8354890/ Data-Time Tradeoffs for Corrupted Sensing], IEEE Signal Processing Letters, 2018.
-. Jinchi Chen and Yulong Liu, [https://ieeexplore.ieee.org/document/8006581 Corrupted sensing with sub-Gaussian measurements], 2017 IEEE International Symposium on Information Theory (ISIT), 2017.
+. Jinchi Chen and Yulong Liu, [https://arxiv.org/abs/1705.07531 Corrupted sensing with sub-Gaussian measurements], 2017 IEEE International Symposium on Information Theory (ISIT), 2017.
