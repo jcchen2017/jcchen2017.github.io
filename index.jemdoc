@@ -1,4 +1,4 @@
-# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}
 == Jinchi Chen 
 
 ~~~
