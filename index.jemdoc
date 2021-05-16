@@ -4,20 +4,21 @@
 
 ~~~
 {}{img_left}{photos/jinchi.jpg}{alt text}{131}{160}{}
-I am a postdoc in [https://sds.fudan.edu.cn/ School of Data Science] at [https://www.fudan.edu.cn/ Fudan University]\n
-My advisors are [http://homepage.fudan.edu.cn/wggao/zh/ Prof. Weiguo Gao] and [http://www.sdspeople.fudan.edu.cn/weike/ Prof. Ke Wei].\n
+I'm a postdoctoral researcher [https://sds.fudan.edu.cn/ School of Data Science] at [https://www.fudan.edu.cn/ Fudan University]\n, advised by [http://homepage.fudan.edu.cn/wggao/zh/ Prof. Weiguo Gao] and [http://www.sdspeople.fudan.edu.cn/weike/ Prof. Ke Wei].\n
+ 
+Previously, I completed my Ph.D. in School of Physics at [http://www.bit.edu.cn/ Beijing Institute of Technology] under the supervision of [http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm Prof. Yulong Liu]. Prior to attending Princeton University, I received B.E. in School of Information and Communication Engineering from [http://www.njit.edu.cn/ Nanjing Institute of Technology].
+
+
+
+My research interests include mathematics of data science, machine learning, convex and nonconvex optimization.
 
 
 E-mail: /jcchen.phys/ \[@\] gmail \[DOT\] com 
 ~~~
-
-== About me 
-Before coming to Fudan, I completed my Ph.D. in School of Physics at [http://www.bit.edu.cn/ Beijing Institute of Technology], 
-where I worked with [http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm Prof. Yulong Liu]. Before that, I received B.E. in School of Information and Communication Engineering from [http://www.njit.edu.cn/ Nanjing Institute of Technology].
+ 
 
 
-
-== News
+== Recent news
 - May 2021: "Exact matrix completion based on low rank Hankel structure in the Fourier domain" (joint work with Weiguo Gao and Ke Wei) is accepted to Applied and Computational Harmonic Analysis.
 - New release, Oct 2020: "Vectorized Hankel Lift: A Convex Approach for Blind Super-Resolution of Point Sources" (joint work with Weiguo Gao, Sihan Mao and Ke Wei).
 - New grant, Sep 2020: "Recovery and blind deconvolution of spectrally sparse signal based on low rankness
