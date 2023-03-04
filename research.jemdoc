@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research
+
+== Preprints 
+. *Jinchi Chen*, Jie Feng, Weiguo Gao and Ke Wei, [https://arxiv.org/abs/2209.02179 Decentralized Natural Policy Gradient with Variance Reduction for Collaborative Multi-Agent Reinforcement Learning] arXiv preprint: arXiv:2209.02179, 2022.
+. Haifeng Wang, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2108.07899 Entrywise Convergence of Riemannian Gradient Method for Low Rank Tensor Completion via Tucker Decomposition], arXiv preprint:2108.07899, 2021.
+
+== Journals
+. Zengying Zhu, *Jinchi Chen*, Weiguo Gao, [https://arxiv.org/abs/2109.11414 Blind Super-Resolution of Point Sources via Fast Iterative Hard Thresholding]. \n Communications in Mathematical Sciences. 21(2): 581 -- 590, 2023.
+. Sihan Mao and *Jinchi Chen*, [https://arxiv.org/abs/2112.01077 Blind Super-resolution of Point Sources via Projected Gradient Descent]. \n IEEE Transactions on Signal Processing. 70: 4649 -- 4664, 2022. [https://github.com/jcchen2017/PGDVHL Code].
+. *Jinchi Chen*, Weiguo Gao, Sihan Mao and Ke Wei, [https://arxiv.org/abs/2008.05092 Vectorized Hankel Lift: A Convex Approach for Blind Super-Resolution of Point Sources]. \n IEEE Transactions on Information Theory, 68(12): 8280 -- 8309, 2022.
+. *Jinchi Chen*, Weiguo Gao and Ke Wei, [https://arxiv.org/abs/1910.02576 Exact Matrix Completion Based on Low Rank Hankel Structure in the Fourier Domain].\n Applied and Computational Harmonic Analysis. 55: 149 -- 184, 2021.
+. *Jinchi Chen* and Yulong Liu, [https://arxiv.org/pdf/1709.05827.pdf Stable Recovery of Structured Signals from Corrupted Sub-Gaussian Measurements].\n IEEE Transactions on Information Theory, 65(5): 2976 -- 2994, 2019.
+. *Jinchi Chen* and Yulong Liu, [https://ieeexplore.ieee.org/abstract/document/8354890/ Data-Time Tradeoffs for Corrupted Sensing].\n IEEE Signal Processing Letters, 25(7): 941 -- 945, 2018.
+
+
+== Conference Proceedings
+. Sihan Mao and *Jinchi Chen*, [https://arxiv.org/abs/2110.02478 Blind Super-resolution via Projected Gradient Descent].\n 2022 IEEE International Symposium on Information Theory (ISIT), 1826 -- 1831, 2022.
+. *Jinchi Chen* and Yulong Liu, [https://arxiv.org/abs/1705.07531 Corrupted Sensing with Sub-Gaussian Measurements].\n 2017 IEEE International Symposium on Information Theory (ISIT), 516 -- 520, 2017.
+
+

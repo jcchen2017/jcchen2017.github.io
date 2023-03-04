@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Welcome to Jinchi Chen's Homepage
+
+
+
+~~~
+{}{img_left}{photos/jinchi202201.jpeg}{photo}{100px}{143px}{}
+*Jinchi Chen*\n
+Postdoctoral Researcher\n
+School of Data Science\n
+Fudan University\n
+E-mail: /jcchen.phys/ at gmail dot com \n
+[https://scholar.google.com/citations?user=cd1Z91AAAAAJ&hl=zh-CN Google Scholar]
+~~~
+
+== About Me
+I'm a postdoctoral researcher in the [https://sds.fudan.edu.cn/ School of Data Science] at [https://www.fudan.edu.cn/ Fudan University], advised by [http://homepage.fudan.edu.cn/wggao/zh/ Prof. Weiguo Gao] and [https://makwei.github.io/ Prof. Ke Wei]. Previously, I completed my Ph.D. in the School of Physics at [http://www.bit.edu.cn/ Beijing Institute of Technology], under the supervision of [http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm Prof. Yulong Liu]. 
+Prior to attending Beijing Institute of Technology, I received B.E. in the School of Information and Communication Engineering from [http://www.njit.edu.cn/ Nanjing Institute of Technology].
+
+
+== Research Interests
+My research interests lie in mathematics of data science, machine learning and signal processing, including compressed sensing, reinforcement learning and distributed optimization.
+
+
