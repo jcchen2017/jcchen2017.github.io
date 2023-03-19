@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{index.html}, showsource
-= Welcome to Jinchi Chen's Homepage
+# jemdoc: menu{MENU}{chinesePage.html}, nofooter
+= 欢迎来到陈金池主页
 
 
 
@@ -7,19 +7,23 @@
 {}{img_left}{photos/jinchi202201.jpeg}{photo}{100px}{143px}{}
 *陈金池*\n
 讲师\n
-华东理工大学数学学院\n
+[https://math.ecust.edu.cn/ 华东理工大学数学学院]\n
 邮箱: /jcchen.phys/ at gmail dot com \n
 [https://scholar.google.com/citations?user=cd1Z91AAAAAJ&hl=zh-CN Google Scholar]
 ~~~
 
 == 工作经历
-- 2019.3-2022.3， 复旦大学博士后，合作导师：[http://homepage.fudan.edu.cn/wggao/zh/ 高卫国教授]、[https://makwei.github.io/ 魏轲教授]
+- 2022.4-至今,	~~~~~华东理工大学, 数学学院, 讲师
+- 2019.3-2022.3,~~复旦大学, 大数据学院, 博士后, 合作导师:[http://homepage.fudan.edu.cn/wggao/zh/ 高卫国教授], [https://makwei.github.io/ 魏轲教授]
 
 
 == 教育背景
-- 2012-2019，博士 [https://physics.bit.edu.cn/ 北京理工大学物理学院], 导师[http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm 刘玉龙教授]
-- 2008-2012，本科 [http://www.njit.edu.cn/ 南京工程学院]
+- 2012-2019, ~博士, 北京理工大学, 物理学院, 导师:[http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm 刘玉龙教授]
+- 2008-2012, 本科, 南京工程学院, 信息学院
 
+== 基金项目
+- 2021-2023, 国家自然科学基金青年基金, “基于矩阵低秩结构谱稀疏信号恢复和盲反卷积”, 在研, 主持
+- 2022-2026, 科技部国家重点研发计划(揭榜挂帅)课题, “5.5G大规模MIMO通信系统的超分辨率参数估计和补全问题”课题二: FDD信道估计及降维设计, 在研, 技术骨干
 
 == 研究方向
 我的研究领域为数据科学的数理基础、机器学习以及信号处理，具体包括压缩感知，强化学习和分布式优化等。
