@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Welcome to Jinchi Chen's Homepage
+
+
+
+~~~
+{}{img_left}{photos/jinchi202201.jpeg}{photo}{100px}{143px}{}
+*陈金池*\n
+讲师\n
+华东理工大学数学学院\n
+邮箱: /jcchen.phys/ at gmail dot com \n
+[https://scholar.google.com/citations?user=cd1Z91AAAAAJ&hl=zh-CN Google Scholar]
+~~~
+
+== 工作经历
+- 2019.3-2022.3， 复旦大学博士后，合作导师：[http://homepage.fudan.edu.cn/wggao/zh/ 高卫国教授]、[https://makwei.github.io/ 魏轲教授]
+
+
+== 教育背景
+- 2012-2019，博士 [https://physics.bit.edu.cn/ 北京理工大学物理学院], 导师[http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm 刘玉龙教授]
+- 2008-2012，本科 [http://www.njit.edu.cn/ 南京工程学院]
+
+
+== 研究方向
+我的研究领域为数据科学的数理基础、机器学习以及信号处理，具体包括压缩感知，强化学习和分布式优化等。
