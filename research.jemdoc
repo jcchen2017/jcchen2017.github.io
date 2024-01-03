@@ -2,13 +2,14 @@
 = Publications
 
 == Preprints 
-. Hongxu Chen, *Jinchi Chen*, Ke Wei, [https://arxiv.org/abs/2310.18883 A Zeroth-Order Variance-Reduced Method for Decentralized Stochastic Non-convex Optimization] arXiv preprint: arXiv:2310.18883, 2023.
-. Jiacai Liu, *Jinchi Chen*, Ke Wei, [https://arxiv.org/abs/2305.19575 On the Linear Convergence of Policy Gradient under Hadamard Parameterization] arXiv preprint: arXiv:2305.19575, 2023.
+. Jie Feng, Ke Wei and *Jinchi Chen*, [https://arxiv.org/abs/2401.01084 Global Convergence of Natural Policy Gradient with Hessian-aided Momentum Variance Reduction] arXiv preprint: arXiv:2401.01084, 2024.
+. Hongxu Chen, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2310.18883 A Zeroth-Order Variance-Reduced Method for Decentralized Stochastic Non-convex Optimization] arXiv preprint: arXiv:2310.18883, 2023.
+. Jiacai Liu, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2305.19575 On the Linear Convergence of Policy Gradient under Hadamard Parameterization] arXiv preprint: arXiv:2305.19575, 2023.
 . *Jinchi Chen*, Jie Feng, Weiguo Gao and Ke Wei, [https://arxiv.org/abs/2209.02179 Decentralized Natural Policy Gradient with Variance Reduction for Collaborative Multi-Agent Reinforcement Learning] arXiv preprint: arXiv:2209.02179, 2022.   
 == Journals
-. Haifeng Wang, *Jinchi Chen*, Ke Wei, [https://www.jmlr.org/papers/v24/22-1256.html Implicit Regularization and Entrywise Convergence of Riemannian Optimization for Low Tucker-Rank Tensor Completion]. \n Journal of Machine Learning Research. 24(347): 1−84, 2023.
-. Zengying Zhu, *Jinchi Chen*, Weiguo Gao, [https://arxiv.org/abs/2109.11414 Blind Super-Resolution of Point Sources via Fast Iterative Hard Thresholding]. \n Communications in Mathematical Sciences. 21(2): 581 -- 590, 2023.
-. Sihan Mao and *Jinchi Chen*, [https://arxiv.org/abs/2112.01077 Blind Super-resolution of Point Sources via Projected Gradient Descent]. \n IEEE Transactions on Signal Processing. 70: 4649 -- 4664, 2022. [https://github.com/jcchen2017/PGDVHL Code].
+. Haifeng Wang, *Jinchi Chen* and Ke Wei, [https://www.jmlr.org/papers/v24/22-1256.html Implicit Regularization and Entrywise Convergence of Riemannian Optimization for Low Tucker-Rank Tensor Completion]. \n Journal of Machine Learning Research. 24(347): 1−84, 2023.
+. Zengying Zhu, *Jinchi Chen* and Weiguo Gao, [https://arxiv.org/abs/2109.11414 Blind Super-Resolution of Point Sources via Fast Iterative Hard Thresholding]. \n Communications in Mathematical Sciences. 21(2): 581 -- 590, 2023.
+. Sihan Mao and *Jinchi Chen* and [https://arxiv.org/abs/2112.01077 Blind Super-resolution of Point Sources via Projected Gradient Descent]. \n IEEE Transactions on Signal Processing. 70: 4649 -- 4664, 2022. [https://github.com/jcchen2017/PGDVHL Code].
 . *Jinchi Chen*, Weiguo Gao, Sihan Mao and Ke Wei, [https://arxiv.org/abs/2008.05092 Vectorized Hankel Lift: A Convex Approach for Blind Super-Resolution of Point Sources]. \n IEEE Transactions on Information Theory, 68(12): 8280 -- 8309, 2022.
 . *Jinchi Chen*, Weiguo Gao and Ke Wei, [https://arxiv.org/abs/1910.02576 Exact Matrix Completion Based on Low Rank Hankel Structure in the Fourier Domain].\n Applied and Computational Harmonic Analysis. 55: 149 -- 184, 2021.
 . *Jinchi Chen* and Yulong Liu, [https://arxiv.org/pdf/1709.05827.pdf Stable Recovery of Structured Signals from Corrupted Sub-Gaussian Measurements].\n IEEE Transactions on Information Theory, 65(5): 2976 -- 2994, 2019.
