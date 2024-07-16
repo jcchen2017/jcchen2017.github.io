@@ -6,9 +6,8 @@
 . Jie Feng, Ke Wei and *Jinchi Chen*, [https://arxiv.org/abs/2401.01084 Global Convergence of Natural Policy Gradient with Hessian-aided Momentum Variance Reduction] arXiv preprint: arXiv:2401.01084, 2024.
 . Hongxu Chen, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2310.18883 A Zeroth-Order Variance-Reduced Method for Decentralized Stochastic Non-convex Optimization] arXiv preprint: arXiv:2310.18883, 2023.
 . Jiacai Liu, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2305.19575 On the Linear Convergence of Policy Gradient under Hadamard Parameterization] arXiv preprint: arXiv:2305.19575, 2023.
-. 
 == Journals
-. *Jinchi Chen*, Jie Feng, Weiguo Gao and Ke Wei, [https://www.jmlr.org/papers/v25/22-1036.html Decentralized Natural Policy Gradient with Variance Reduction for Collaborative Multi-Agent Reinforcement Learning]. \n Journal of Machine Learning Research. 25(172):1−49, 2024.
+. *Jinchi Chen*, Jie Feng, Weiguo Gao and Ke Wei, [https://www.jmlr.org/papers/v25/22-1036.html Decentralized Natural Policy Gradient with Variance Reduction for Collaborative Multi-Agent Reinforcement Learning]. \n Journal of Machine Learning Research. 25(172): 1−49, 2024.
 . Haifeng Wang, *Jinchi Chen* and Ke Wei, [https://www.jmlr.org/papers/v24/22-1256.html Implicit Regularization and Entrywise Convergence of Riemannian Optimization for Low Tucker-Rank Tensor Completion]. \n Journal of Machine Learning Research. 24(347): 1−84, 2023.
 . Zengying Zhu, *Jinchi Chen* and Weiguo Gao, [https://arxiv.org/abs/2109.11414 Blind Super-Resolution of Point Sources via Fast Iterative Hard Thresholding]. \n Communications in Mathematical Sciences. 21(2): 581 -- 590, 2023.
 . Sihan Mao and *Jinchi Chen* and [https://arxiv.org/abs/2112.01077 Blind Super-resolution of Point Sources via Projected Gradient Descent]. \n IEEE Transactions on Signal Processing. 70: 4649 -- 4664, 2022. [https://github.com/jcchen2017/PGDVHL Code].
