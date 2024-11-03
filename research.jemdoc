@@ -2,24 +2,57 @@
 = Publications
 
 == Preprints 
-. *Jinchi Chen*, [https://arxiv.org/abs/2407.09900 Fast and Provable Simultaneous Blind Super-Resolution and Demixing for Point Source Signals: Scaled Gradient Descent without Regularization] arXiv preprint: arXiv:2407.09900, 2024.
-. Jie Feng, Ke Wei and *Jinchi Chen*, [https://arxiv.org/abs/2401.01084 Global Convergence of Natural Policy Gradient with Hessian-aided Momentum Variance Reduction] arXiv preprint: arXiv:2401.01084, 2024.
-. Hongxu Chen, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2310.18883 A Zeroth-Order Variance-Reduced Method for Decentralized Stochastic Non-convex Optimization] arXiv preprint: arXiv:2310.18883, 2023.
-. Jiacai Liu, *Jinchi Chen* and Ke Wei, [https://arxiv.org/abs/2305.19575 On the Linear Convergence of Policy Gradient under Hadamard Parameterization] arXiv preprint: arXiv:2305.19575, 2023.
+. [https://arxiv.org/abs/2410.08607 Riemannian Gradient Descent Method to Joint Blind Super-Resolution and Demixing in ISAC], \n
+Zeyu Xiang, Haifeng Wang, Jiayi Lv, Yujie Wang, Yuxue Wang, Yuxuan Ma and *Jinchi Chen*, \n
+arXiv:2410.08607, 2024.
+. [https://arxiv.org/abs/2407.09900 Fast and Provable Simultaneous Blind Super-Resolution and Demixing for Point Source Signals: Scaled Gradient Descent without Regularization],\n
+*Jinchi Chen*, \n
+arXiv:2407.09900, 2024.
+. [https://arxiv.org/abs/2310.18883 A Zeroth-Order Variance-Reduced Method for Decentralized Stochastic Non-convex Optimization],\n
+Hongxu Chen, *Jinchi Chen* and Ke Wei, \n
+arXiv:2310.18883, 2023.
+. [https://arxiv.org/abs/2305.19575 On the Linear Convergence of Policy Gradient under Hadamard Parameterization],\n
+Jiacai Liu, *Jinchi Chen* and Ke Wei, \n
+arXiv:2305.19575, 2023.
 == Journals
-. *Jinchi Chen*, Jie Feng, Weiguo Gao and Ke Wei, [https://www.jmlr.org/papers/v25/22-1036.html Decentralized Natural Policy Gradient with Variance Reduction for Collaborative Multi-Agent Reinforcement Learning]. \n Journal of Machine Learning Research. 25(172): 1−49, 2024.
-. Haifeng Wang, *Jinchi Chen* and Ke Wei, [https://www.jmlr.org/papers/v24/22-1256.html Implicit Regularization and Entrywise Convergence of Riemannian Optimization for Low Tucker-Rank Tensor Completion]. \n Journal of Machine Learning Research. 24(347): 1−84, 2023.
-. Zengying Zhu, *Jinchi Chen* and Weiguo Gao, [https://arxiv.org/abs/2109.11414 Blind Super-Resolution of Point Sources via Fast Iterative Hard Thresholding]. \n Communications in Mathematical Sciences. 21(2): 581 -- 590, 2023.
-. Sihan Mao and *Jinchi Chen* and [https://arxiv.org/abs/2112.01077 Blind Super-resolution of Point Sources via Projected Gradient Descent]. \n IEEE Transactions on Signal Processing. 70: 4649 -- 4664, 2022. [https://github.com/jcchen2017/PGDVHL Code].
-. *Jinchi Chen*, Weiguo Gao, Sihan Mao and Ke Wei, [https://arxiv.org/abs/2008.05092 Vectorized Hankel Lift: A Convex Approach for Blind Super-Resolution of Point Sources]. \n IEEE Transactions on Information Theory, 68(12): 8280 -- 8309, 2022.
-. *Jinchi Chen*, Weiguo Gao and Ke Wei, [https://arxiv.org/abs/1910.02576 Exact Matrix Completion Based on Low Rank Hankel Structure in the Fourier Domain].\n Applied and Computational Harmonic Analysis. 55: 149 -- 184, 2021.
-. *Jinchi Chen* and Yulong Liu, [https://arxiv.org/pdf/1709.05827.pdf Stable Recovery of Structured Signals from Corrupted Sub-Gaussian Measurements].\n IEEE Transactions on Information Theory, 65(5): 2976 -- 2994, 2019.
-. *Jinchi Chen* and Yulong Liu, [https://ieeexplore.ieee.org/abstract/document/8354890/ Data-Time Tradeoffs for Corrupted Sensing].\n IEEE Signal Processing Letters, 25(7): 941 -- 945, 2018.
+. [https://arxiv.org/abs/2401.01084 Global Convergence of Natural Policy Gradient with Hessian-aided Momentum Variance Reduction], \n
+Jie Feng, Ke Wei and *Jinchi Chen*, \n
+Journal of Scientific Computing. 101(44): 1 -- 28, 2024.
+. [https://www.jmlr.org/papers/v25/22-1036.html Decentralized Natural Policy Gradient with Variance Reduction for Collaborative Multi-Agent Reinforcement Learning], \n
+*Jinchi Chen*, Jie Feng, Weiguo Gao and Ke Wei, \n
+Journal of Machine Learning Research. 25(172): 1−-49, 2024.
+. [https://www.jmlr.org/papers/v24/22-1256.html Implicit Regularization and Entrywise Convergence of Riemannian Optimization for Low Tucker-Rank Tensor Completion], \n
+Haifeng Wang, *Jinchi Chen* and Ke Wei, \n
+Journal of Machine Learning Research. 24(347): 1−84, 2023.
+. [https://arxiv.org/abs/2109.11414 Blind Super-Resolution of Point Sources via Fast Iterative Hard Thresholding], \n
+Zengying Zhu, *Jinchi Chen* and Weiguo Gao, \n 
+Communications in Mathematical Sciences. 21(2): 581 -- 590, 2023.
+. [https://arxiv.org/abs/2112.01077 Blind Super-resolution of Point Sources via Projected Gradient Descent], \n
+Sihan Mao and *Jinchi Chen*, \n
+IEEE Transactions on Signal Processing. 70: 4649 -- 4664, 2022. [https://github.com/jcchen2017/PGDVHL Code].
+. [https://arxiv.org/abs/2008.05092 Vectorized Hankel Lift: A Convex Approach for Blind Super-Resolution of Point Sources], \n
+*Jinchi Chen*, Weiguo Gao, Sihan Mao and Ke Wei,\n
+IEEE Transactions on Information Theory, 68(12): 8280 -- 8309, 2022.
+. [https://arxiv.org/abs/1910.02576 Exact Matrix Completion Based on Low Rank Hankel Structure in the Fourier Domain],\n
+*Jinchi Chen*, Weiguo Gao and Ke Wei, \n
+Applied and Computational Harmonic Analysis. 55: 149 -- 184, 2021.
+. [https://arxiv.org/pdf/1709.05827.pdf Stable Recovery of Structured Signals from Corrupted Sub-Gaussian Measurements],\n
+*Jinchi Chen* and Yulong Liu, \n
+IEEE Transactions on Information Theory, 65(5): 2976 -- 2994, 2019.
+. [https://ieeexplore.ieee.org/abstract/document/8354890/ Data-Time Tradeoffs for Corrupted Sensing],\n
+*Jinchi Chen* and Yulong Liu, \n
+IEEE Signal Processing Letters, 25(7): 941 -- 945, 2018.
 
 
 == Conference Proceedings
-. Haifeng Wang, *Jinchi Chen*, Hulei Fan, Yuxiang Zhao and Li You, Simultaneous Blind Demixing and Super-resolution via Vectorized Handle Lift. \n 2024 IEEE International Conference on Communications (ICC), 354 -- 359, 2024.
-. Sihan Mao and *Jinchi Chen*, [https://arxiv.org/abs/2110.02478 Blind Super-resolution via Projected Gradient Descent].\n 2022 IEEE International Symposium on Information Theory (ISIT), 1826 -- 1831, 2022.
-. *Jinchi Chen* and Yulong Liu, [https://arxiv.org/abs/1705.07531 Corrupted Sensing with Sub-Gaussian Measurements].\n 2017 IEEE International Symposium on Information Theory (ISIT), 516 -- 520, 2017.
+. [https://arxiv.org/abs/2401.11805 Simultaneous Blind Demixing and Super-resolution via Vectorized Handle Lift], \n
+Haifeng Wang, *Jinchi Chen*, Hulei Fan, Yuxiang Zhao and Li You, \n
+2024 IEEE International Conference on Communications (ICC), 354 -- 359, 2024.
+. [https://arxiv.org/abs/2110.02478 Blind Super-resolution via Projected Gradient Descent],\n
+Sihan Mao and *Jinchi Chen*, \n
+2022 IEEE International Symposium on Information Theory (ISIT), 1826 -- 1831, 2022.
+. [https://arxiv.org/abs/1705.07531 Corrupted Sensing with Sub-Gaussian Measurements],\n
+*Jinchi Chen* and Yulong Liu, \n
+2017 IEEE International Symposium on Information Theory (ISIT), 516 -- 520, 2017.
 
 
